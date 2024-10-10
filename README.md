@@ -4,7 +4,7 @@ My name is Munish Kumar and I'm a SRE/DevOps Engineer. I'm from India, living in
 
 <br />
 
-<a href="https://twitter.com/munishkr_">                   <img align="left" alt="Munish's's Twitter"   height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  </a>
+<a href="https://x.com/munishkr_">                   <img align="left" alt="Munish's's Twitter"   height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  </a>
 <a href="https://www.linkedin.com/in/munishkumar631/"><img align="left" alt="Munish's LinkdeIN"  height="22px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 <br />
